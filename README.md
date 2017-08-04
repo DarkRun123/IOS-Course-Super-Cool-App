@@ -1,2 +1,2 @@
-# IOS-Course-Super-Cool-App
+# Hide app
 this is the first app i built
